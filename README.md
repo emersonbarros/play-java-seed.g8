@@ -18,4 +18,4 @@ sbt new playframework/play-java-seed.g8
 
 Type `g8Scaffold form` from sbt to create the scaffold controller, template and tests needed to process a form.
 
-You can also create your own giter8 seeds and scaffolds based off this one by forking from the https://github.com/playframework/play-java-seed.g8 or https://github.com/playframework/play-scala-seed.g8 github projects.
+You can also create your own giter8 seeds and scaffolds based off this one by forking from the https://github.com/emersonbarros/play-java-seed.g8 or https://github.com/emersonbarros/play-scala-seed.g8 github projects.
